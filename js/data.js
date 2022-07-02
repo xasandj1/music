@@ -60,7 +60,7 @@ let songs = [
         cover: 'img/jiggle'
     },
     {
-        name: 'Dummba',
+        name: 'Dumba',
         path: 'music/Massa',
         artist: 'Massa',
         cover: 'img/Massa'
