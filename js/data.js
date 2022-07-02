@@ -53,4 +53,40 @@ let songs = [
         artist: 'MiyaGi',
         cover: 'img/Miyagi'
     },
+    {
+        name: 'Jiggle',
+        path: 'music/jiggle',
+        artist: 'Money',
+        cover: 'img/jiggle'
+    },
+    {
+        name: 'Dummba',
+        path: 'music/Massa',
+        artist: 'Massa',
+        cover: 'img/Massa'
+    },
+    {
+        name: 'Сафари',
+        path: 'music/Сафари',
+        artist: '104 x Truwer',
+        cover: 'img/truwer'
+    },
+    {
+        name: 'Mahragan Bent El',
+        path: 'music/Hassan',
+        artist: 'Hassan',
+        cover: 'img/Hassan'
+    },
+    {
+        name: 'ElBakht',
+        path: 'music/Wegz',
+        artist: 'Wegz',
+        cover: 'img/elbakht'
+    },
+    {
+        name: 'el melouk',
+        path: 'music/ahmadsaad',
+        artist: 'ahmad saad',
+        cover: 'img/elmeloukartists'
+    },
 ]
