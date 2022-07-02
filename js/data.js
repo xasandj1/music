@@ -75,7 +75,7 @@ let songs = [
         name: 'Mahragan Bent El',
         path: 'music/Hassan',
         artist: 'Hassan',
-        cover: 'img/Hassan'
+        cover: 'img/hassan'
     },
     {
         name: 'ElBakht',
